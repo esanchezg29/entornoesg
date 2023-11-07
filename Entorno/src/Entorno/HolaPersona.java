@@ -1,10 +1,9 @@
 package Entorno;
-public class HolaMundo {
+
+public class HolaPersona {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("holaa");
-System.out.println("hola3");
 
 	}
 
